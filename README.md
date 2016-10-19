@@ -1,5 +1,9 @@
 # OOAD-WEEK09 Homework
 ##Usecase Diagram
+ 
+usecase 1
+
+<img src = "https://github.com/OOAD-2559/OOAD-WEEK09/blob/master/Homework-09/usecase1.png">
 
 ```
 @startuml
@@ -14,6 +18,3 @@ usecase (Log Out) as UC4
 
 @enduml
 ```
-
-<img src = "https://github.com/OOAD-2559/OOAD-WEEK09/blob/master/Homework/usecase1.png">
-
